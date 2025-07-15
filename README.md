@@ -14,10 +14,55 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
 ---
 
 ### 🧰 Tech Stack
-```bash
-Languages:    JavaScript | TypeScript | Python
-Frontend:     React.js | Next.js | TailwindCSS
-Backend:      Node.js | Express.js | NestJS | FastAPI
-Databases:    MongoDB | PostgreSQL | Firebase
-Cloud/DevOps: Docker | GitHub Actions | AWS | Azure | DigitalOcean
-Other:        OpenAI SDK | LangChain | Stripe | Twilio | Firebase Auth
+
+**Languages:** Python, JavaScript, TypeScript  
+**Frontend:** React, Next.js, TailwindCSS  
+**Backend:** Node.js, FastAPI, Express, NestJS  
+**Database:** PostgreSQL, MongoDB, Firebase  
+**DevOps:** Docker, CI/CD, AWS, GCP  
+**AI Tools:** OpenAI SDK, LangChain
+
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" /></a>
+  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" /></a>
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" /></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" /></a>
+  <!-- Add more icons as needed -->
+</p>
+
+
+---
+
+### 🌐 Socials
+
+<div style="display:flex; gap:10;">
+  <!-- Email -->
+  <a href="mailto:muzamilirfan@gmail.com" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muzammil-irfan" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+    </picture>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://muzammilirfan.netlify.app" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" width="32" height="32" />
+    </picture>
+  </a>
+</p>
