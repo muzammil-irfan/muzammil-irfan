@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 Hi, I'm a passionate full stack developer with 3+ years of experience building scalable web apps and automating backend systems.
 
-- 🛠️ Focused on **AI agents**, **LangChain**, **FastAPI**, and microservice architecture  
+- 🛠️ Focused on **AI agents**, **OpenAI SDK**, **FastAPI**, and microservice architecture  
 - 💼 Ex–Full Stack Dev @ NestedPie (2022–2025)  
 - 🔄 Love turning product ideas into working code  
 - 🌍 Currently based in **Dubai**, open to freelance & remote work  
@@ -52,7 +52,7 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
 
 <div style="display:flex; gap:10;">
   <!-- Email -->
-  <a href="mailto:muzamilirfan@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:muzammilirfa@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" width="36" height="36" alt="Email" />
   </a>
 
@@ -63,7 +63,7 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
   </a>
 
   <!-- Portfolio -->
-  <a href="https://muzammilirfan.netlify.app" target="_blank" rel="noreferrer">
+  <a href="https://portfolio-muzammil-irfan.vercel.app" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/internet--v1.png" width="36" height="36" alt="Website" />
   </a>
 
@@ -74,5 +74,5 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuzammilIrfan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammil-irfan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
