@@ -1,5 +1,5 @@
-<h1 align="center">Hey there 👋, I'm Muzammil Irfan</h1>
-<p align="center">🚀 Full Stack Developer | 🧠 AI Explorer | ⚙️ Backend & DevOps Enthusiast</p>
+<h1 align="left">Hey there 👋, I'm Muzammil Irfan</h1>
+<p align="left">🚀 Full Stack Developer | 🧠 AI Explorer | ⚙️ Backend & DevOps Enthusiast</p>
 
 ---
 
@@ -24,8 +24,8 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
 
 <p align="left" dir="auto">
   <!-- Languages -->
-  <!-- <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
-  <a href="https://www.javascript.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
+  <a href="https://www.python.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" /></a>
+  <!-- <a href="https://www.javascript.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" /></a>
   <a href="https://www.typescriptlang.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" /></a> -->
   <!-- Frontend -->
   <!-- <a href="https://reactjs.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" /></a> -->
@@ -67,4 +67,12 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
     <img src="https://img.icons8.com/color/48/internet--v1.png" width="36" height="36" alt="Website" />
   </a>
 
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuzammilIrfan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
