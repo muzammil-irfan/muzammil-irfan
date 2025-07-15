@@ -41,21 +41,18 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
 <div style="display:flex; gap:10;">
   <!-- Email -->
   <a href="mailto:muzamilirfan@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" width="32" height="32" alt="Email" />
+    <img src="https://img.icons8.com/color/48/gmail--v1.png" width="36" height="36" alt="Email" />
   </a>
 
+
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/muzammil-irfan" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-    </picture>
+   <a href="https://www.linkedin.com/in/muzammil-irfan" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="36" height="36" alt="LinkedIn" />
   </a>
 
   <!-- Portfolio -->
   <a href="https://muzammilirfan.netlify.app" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="32" height="32" alt="Website" />
+    <img src="https://img.icons8.com/color/48/internet--v1.png" width="36" height="36" alt="Website" />
   </a>
 
 </p>
