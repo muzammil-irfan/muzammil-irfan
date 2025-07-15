@@ -73,6 +73,6 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=muzammil-irfan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
