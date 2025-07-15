@@ -41,11 +41,7 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
 <div style="display:flex; gap:10;">
   <!-- Email -->
   <a href="mailto:muzamilirfan@gmail.com" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/email.svg" width="32" height="32" />
-    </picture>
+    <img src="https://img.icons8.com/ios-filled/50/000000/email-open.png" width="32" height="32" alt="Email" />
   </a>
 
   <!-- LinkedIn -->
@@ -59,10 +55,7 @@ Hi, I'm a passionate full stack developer with 3+ years of experience building s
 
   <!-- Portfolio -->
   <a href="https://muzammilirfan.netlify.app" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" width="32" height="32" />
-    </picture>
+    <img src="https://img.icons8.com/ios-filled/50/000000/domain.png" width="32" height="32" alt="Website" />
   </a>
+
 </p>
